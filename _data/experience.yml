@@ -1,19 +1,6 @@
 # Jobs
-# Handyman / Carpenter
-- company: Self Employed
-  position: Handyman / Carpenter
-  duration: 2011 &mdash; Present
-  summary: Build and fix almost anything.
-  
-# Mortician
-- company: It's Your Funeral Home and Crematorium
-  position: Mortician
-  duration:  2011 &mdash; Present
-  summary: Director and owner of It's Your Funeral Home and Crematorium
-
-
-# Pizzeria Owner
-- company: Jimmy Pesto's Pizzeria
-  position: Pizzeria Owner
-  duration:   2011  &mdash; Present
-  summary: Owner of the best pizzeria in Ocean City, a much better restaurant than Bob's Burgers. I heard he got stuck on the toilet once, probably from eating his own food. ZOOOOOM!
+# Up-N-Down
+- company: Up-N-Down
+  position: Employee
+  duration: Time
+  summary: <ul class="resume-item-list"><li>Manned the front desk.</li><li>Watched the outside area and talked to customers.</li></ul>
